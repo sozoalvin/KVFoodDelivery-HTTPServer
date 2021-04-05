@@ -37,8 +37,8 @@ While there were alternatives that were created before; there is no single web a
 
 
 <h2>Easily View All System Information</h2>
-<img src = "https://i.imgur.com/qhb7rVt.png" width="700">
 <img src = "https://i.imgur.com/DCrvoAL.png" width="700">
+<img src = "https://i.imgur.com/qhb7rVt.png" width="700">
 
 
 
