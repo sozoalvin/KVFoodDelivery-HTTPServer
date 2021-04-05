@@ -8,7 +8,9 @@ Backend Prototyping System for Food Delivery Applications. Written in go/ golang
 <p>The KV app was created in an attempt to solve teething customer service issues that have been affecting customer’s average order values, customer satisfaction and ultimate customer loyalty.
 While there were alternatives that were created before; there is no single web application that can integrate the features that are now available.</p>
 
-<a href="https://github.com/sozoalvin/KVFoodDelivery-HTTPServer/blob/master/PDF%20FORMAT/INSTRUCTIONS%20on%20Navigating%20KV%20Food%20Delivery%20Service%20via%20a%20Local%20Server.pdf"><img srce="https://i.imgur.com/f8OZ7Mk.png" width="500"></a>
+<h2>Instructions</h2>
+<h4>Click on image for a direct link to the instructions in PDF format.</h4>
+<a href="https://github.com/sozoalvin/KVFoodDelivery-HTTPServer/blob/master/PDF%20FORMAT/INSTRUCTIONS%20on%20Navigating%20KV%20Food%20Delivery%20Service%20via%20a%20Local%20Server.pdf"><img src="https://i.imgur.com/f8OZ7Mk.png" width="700"></a>
 
 
 <h2>Search Away to Discover Great Tasting Food!</h2>
