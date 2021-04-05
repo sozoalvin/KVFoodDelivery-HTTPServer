@@ -8,7 +8,7 @@ While there were alternatives that were created before; there is no single web a
 
 
 <h2>Search Away to Discover Great Tasting Food!</h2>
-<img src = "https://i.imgur.com/XFUVxvV.png">
+<img src = "https://i.imgur.com/XFUVxvV.png" width="200">
 
 <h2>Easily Add Any Items to Cart</h2>
 <img src = "https://i.imgur.com/FKjFCQ8.png">
