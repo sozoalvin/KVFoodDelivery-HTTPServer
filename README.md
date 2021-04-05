@@ -22,3 +22,25 @@ While there were alternatives that were created before; there is no single web a
 <img src = "https://i.imgur.com/pHjQuLW.png">
 
 
+<h2>Customer's Checkout Page</h2>
+<img src = "https://i.imgur.com/PVTs0E7.png">
+
+<h2>Priority Queues for Service Recvery</h2>
+<img src = "https://i.imgur.com/c63vP9z.png">
+
+<h2>Driver Assignment</h2>
+<img src = "https://i.imgur.com/1Nye0iX.png">
+<img src = "https://i.imgur.com/bhKLJWl.png">
+
+<h2>Read, Get Set, Dispatch</h2>
+<img src = "https://i.imgur.com/xJjm2yX.png">
+
+
+<h2>Easily View All System Information</h2>
+<img src = "https://i.imgur.com/qhb7rVt.png">
+
+
+
+
+https://i.imgur.com/DCrvoAL.png
+
